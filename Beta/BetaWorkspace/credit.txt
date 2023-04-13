@@ -1,0 +1,20 @@
+All sprites and the tile map/set were provided by ansimuz under a CC0 1.0 Universal (CC0 1.0)
+Public Domain Dedication liscense.
+Link to liscense: https://creativecommons.org/publicdomain/zero/1.0/
+Link to sprites/tile set: https://opengameart.org/content/gothicvania-patreons-collection
+
+
+The pain.ogg sound file was created and provided by Michel Baradari under a Attribution 3.0 Unported (CC BY 3.0) liscense.
+Link to liscense: https://creativecommons.org/licenses/by/3.0/
+Link to file: https://opengameart.org/content/11-male-human-paindeath-sounds
+
+
+The swish-3.ogg sound file was created and provided by artisticdude under a CC0 1.0 Universal (CC0 1.0)
+Public Domain Dedication liscense.
+Link to liscense: https://creativecommons.org/publicdomain/zero/1.0/
+Link to file: https://opengameart.org/content/swishes-sound-pack
+
+
+The Wrong_Rite_Theme.ogg sound file was created and provided by Pierre Bondoerffer (@pbondoer) under a Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) liscense.
+Link to liscense: https://creativecommons.org/licenses/by-sa/3.0/
+Link to file: https://opengameart.org/content/into-the-ruins

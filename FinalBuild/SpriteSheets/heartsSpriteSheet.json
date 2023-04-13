@@ -1,0 +1,36 @@
+{"frames": {
+
+"heartsempty.png":
+{
+	"frame": {"x":0,"y":0,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+},
+"heartsfull.png":
+{
+	"frame": {"x":25,"y":0,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+},
+"heartshalf.png":
+{
+	"frame": {"x":50,"y":0,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "heartsSpriteSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":75,"h":25},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4f6ff3087ec50160b6d6a2f5405f222d:940ffd25fe37bfdb46a9f7f22504a394:ff6c683416a525741f54af0c64f32464$"
+}
+}

@@ -1,0 +1,44 @@
+{"frames": {
+
+"ghost-halo-1.png":
+{
+	"frame": {"x":0,"y":0,"w":37,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":65},
+	"sourceSize": {"w":37,"h":65}
+},
+"ghost-halo-2.png":
+{
+	"frame": {"x":0,"y":65,"w":37,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":65},
+	"sourceSize": {"w":37,"h":65}
+},
+"ghost-halo-3.png":
+{
+	"frame": {"x":0,"y":130,"w":37,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":65},
+	"sourceSize": {"w":37,"h":65}
+},
+"ghost-halo-4.png":
+{
+	"frame": {"x":0,"y":195,"w":37,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":65},
+	"sourceSize": {"w":37,"h":65}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "GhostHelper.png",
+	"format": "RGBA8888",
+	"size": {"w":37,"h":260},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f20ee165e84e04319fe0fdf3ff7cd8c:c6514f56b315bbe740a2ced9cf344f53:df7a50244cc76944a0e5de906f40e6b7$"
+}
+}

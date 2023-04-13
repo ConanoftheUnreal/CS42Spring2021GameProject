@@ -1,0 +1,260 @@
+{"frames": {
+
+"gothic-hero-attack1.png":
+{
+	"frame": {"x":0,"y":0,"w":28,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":39},
+	"sourceSize": {"w":28,"h":39}
+},
+"gothic-hero-attack2.png":
+{
+	"frame": {"x":84,"y":0,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"gothic-hero-attack3.png":
+{
+	"frame": {"x":0,"y":464,"w":81,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":39},
+	"sourceSize": {"w":81,"h":39}
+},
+"gothic-hero-attack4.png":
+{
+	"frame": {"x":48,"y":365,"w":64,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":39},
+	"sourceSize": {"w":64,"h":39}
+},
+"gothic-hero-attack5.png":
+{
+	"frame": {"x":0,"y":115,"w":36,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":39},
+	"sourceSize": {"w":36,"h":39}
+},
+"gothic-hero-attack6.png":
+{
+	"frame": {"x":88,"y":41,"w":31,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":39},
+	"sourceSize": {"w":31,"h":39}
+},
+"gothic-hero-idle1.png":
+{
+	"frame": {"x":0,"y":41,"w":29,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":40},
+	"sourceSize": {"w":29,"h":40}
+},
+"gothic-hero-idle2.png":
+{
+	"frame": {"x":56,"y":0,"w":28,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":41},
+	"sourceSize": {"w":28,"h":41}
+},
+"gothic-hero-idle3.png":
+{
+	"frame": {"x":29,"y":41,"w":29,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":40},
+	"sourceSize": {"w":29,"h":40}
+},
+"gothic-hero-idle4.png":
+{
+	"frame": {"x":28,"y":0,"w":28,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":39},
+	"sourceSize": {"w":28,"h":39}
+},
+"gothic-hero-jump1.png":
+{
+	"frame": {"x":43,"y":281,"w":47,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":40},
+	"sourceSize": {"w":47,"h":40}
+},
+"gothic-hero-jump2.png":
+{
+	"frame": {"x":0,"y":281,"w":43,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":41},
+	"sourceSize": {"w":43,"h":41}
+},
+"gothic-hero-jump3.png":
+{
+	"frame": {"x":0,"y":81,"w":38,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":33},
+	"sourceSize": {"w":38,"h":33}
+},
+"gothic-hero-jump4.png":
+{
+	"frame": {"x":36,"y":115,"w":42,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":34},
+	"sourceSize": {"w":42,"h":34}
+},
+"gothic-hero-jump5.png":
+{
+	"frame": {"x":0,"y":408,"w":50,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":56},
+	"sourceSize": {"w":50,"h":56}
+},
+"gothic-hero-jumpAttack1.png":
+{
+	"frame": {"x":38,"y":81,"w":38,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":33},
+	"sourceSize": {"w":38,"h":33}
+},
+"gothic-hero-jumpAttack2.png":
+{
+	"frame": {"x":76,"y":81,"w":37,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":34},
+	"sourceSize": {"w":37,"h":34}
+},
+"gothic-hero-jumpAttack3.png":
+{
+	"frame": {"x":50,"y":408,"w":64,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":46},
+	"sourceSize": {"w":64,"h":46}
+},
+"gothic-hero-jumpAttack4.png":
+{
+	"frame": {"x":58,"y":41,"w":30,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":39},
+	"sourceSize": {"w":30,"h":39}
+},
+"gothic-hero-run1.png":
+{
+	"frame": {"x":0,"y":322,"w":47,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":40},
+	"sourceSize": {"w":47,"h":40}
+},
+"gothic-hero-run2.png":
+{
+	"frame": {"x":39,"y":199,"w":40,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":42},
+	"sourceSize": {"w":40,"h":42}
+},
+"gothic-hero-run3.png":
+{
+	"frame": {"x":79,"y":199,"w":42,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":40},
+	"sourceSize": {"w":42,"h":40}
+},
+"gothic-hero-run4.png":
+{
+	"frame": {"x":0,"y":156,"w":37,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":41},
+	"sourceSize": {"w":37,"h":41}
+},
+"gothic-hero-run5.png":
+{
+	"frame": {"x":74,"y":156,"w":37,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":43},
+	"sourceSize": {"w":37,"h":43}
+},
+"gothic-hero-run6.png":
+{
+	"frame": {"x":0,"y":365,"w":48,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":43},
+	"sourceSize": {"w":48,"h":43}
+},
+"gothic-hero-run7.png":
+{
+	"frame": {"x":43,"y":241,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":40},
+	"sourceSize": {"w":44,"h":40}
+},
+"gothic-hero-run8.png":
+{
+	"frame": {"x":0,"y":199,"w":39,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":42},
+	"sourceSize": {"w":39,"h":42}
+},
+"gothic-hero-run9.png":
+{
+	"frame": {"x":0,"y":241,"w":43,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":40},
+	"sourceSize": {"w":43,"h":40}
+},
+"gothic-hero-run10.png":
+{
+	"frame": {"x":78,"y":115,"w":37,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":41},
+	"sourceSize": {"w":37,"h":41}
+},
+"gothic-hero-run11.png":
+{
+	"frame": {"x":37,"y":156,"w":37,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":43},
+	"sourceSize": {"w":37,"h":43}
+},
+"gothic-hero-run12.png":
+{
+	"frame": {"x":47,"y":322,"w":48,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":43},
+	"sourceSize": {"w":48,"h":43}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Hero.png",
+	"format": "RGBA8888",
+	"size": {"w":121,"h":503},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:adf43c5343139a6b3bfaaeb550d80fbb:fde405c6d51f3425427c68ddd1897f98:dc866b5e2ff0a1360e79139a0bd501b2$"
+}
+}

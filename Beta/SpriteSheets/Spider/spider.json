@@ -1,0 +1,44 @@
+{"frames": {
+
+"spider1.png":
+{
+	"frame": {"x":0,"y":0,"w":32,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":21},
+	"sourceSize": {"w":32,"h":21}
+},
+"spider2.png":
+{
+	"frame": {"x":32,"y":0,"w":32,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":21},
+	"sourceSize": {"w":32,"h":21}
+},
+"spider3.png":
+{
+	"frame": {"x":64,"y":0,"w":32,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":21},
+	"sourceSize": {"w":32,"h":21}
+},
+"spider4.png":
+{
+	"frame": {"x":96,"y":0,"w":32,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":21},
+	"sourceSize": {"w":32,"h":21}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spider.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":21},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:87e50b7557b0115c61d32ef3ab813d78:f3fedf2eda8666fa2fb47a6c13df20e6:1061686de59298529f6a4fc7550209ec$"
+}
+}
